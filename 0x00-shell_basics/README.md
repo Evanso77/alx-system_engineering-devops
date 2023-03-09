@@ -5,4 +5,5 @@
 "ls -al"-Display current directory contents, including hidden files (starting with .). Use the long format.
 "ls -lna"- Display current directory contents.Long format,with user and group IDs displayed numerically And hidden files (starting with .)
 "mkdir /tmp/my_first_directory"-Create a script that creates a directory named my_first_directory in the /tmp/ directory
-"mv /tmp/betty /tmp/my_first_directory"-Move the file betty from /tmp/ to /tmp/my_first_directory 
+"mv /tmp/betty /tmp/my_first_directory"-Move the file betty from /tmp/ to /tmp/my_first_directory
+"rm /tmp/my_first_directory"-delete the file betty 
