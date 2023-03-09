@@ -19,3 +19,5 @@
 "ls -amvp"-Write a command that lists all the files and directories of the current directory, separated by commas (,).Directory names should end with a slash (/)Files and directories starting with a dot (.) should be listedThe listing should be alpha ordered, except for the directories . and .. which should be listed at the very beginningOnly digits and letters are used to sort; Digits should come firstYou can assume that all the files we will test with will have at least one letter or one digitThe listing should end with a new line
 "0 string SCHOOL School data 
 !:mime School"-Create a magic file school.mgc that can be used with the command file to detect School data files. School data files always contain the string SCHOOL at offset 0.
+#shell permissions
+"su betty"- a script that switches the current user to the user betty.
