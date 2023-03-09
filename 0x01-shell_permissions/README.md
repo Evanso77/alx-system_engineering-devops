@@ -11,3 +11,4 @@
 "chmod --reference=olleh hello"-  sets the mode of the file hello the same as olleh’s mode
 "chmod -R +111 */ - adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
 "mkdir -m 751 my_dir" - Create a script that creates a directory called my_dir with permissions 751 in the working directory.
+"chgrp school hello" - changes the group owner to school for the file hello
