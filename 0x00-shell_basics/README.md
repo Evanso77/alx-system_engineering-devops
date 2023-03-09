@@ -9,4 +9,5 @@
 "rm /tmp/my_first_directory"-delete the file betty
 "rm -r"-Delete the directory my_first_directory that is in the /tmp directory.
 "cd -"-  changes the working directory to the previous one.
-"ls -al . .. /boot"-lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format. 
+"ls -al . .. /boot"-lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
+"file /tmp/iamafile"- that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run your script. 
