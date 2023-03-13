@@ -3,4 +3,5 @@
 " cat /etc/passwd" - Display the content of the /etc/passwd file
 "cat /etc/passwd /etc/host" - Display the content of /etc/passwd and /etc/hosts
 " tail /etc/passwd" - Display the last 10 lines of /etc/passwd
+"head /etc/passwd" - Display the first 10 lines of /etc/passwd
  
